@@ -42,6 +42,9 @@ nav a {
     text-decoration: none;
 }
 
+
+/* Main Styles */
+
 nav {
     background-color: #ECB378; 
     height: 40px; 
@@ -54,6 +57,19 @@ nav {
     border-bottom-style: solid; 
     border-bottom-color: #55250F; 
     border-bottom-width: 5px; 
+}
+
+nav a {
+    color: #55250F; 
+    text-align: center;
+    line-height: 35px;
+    flex: 33.33%;
+    transition: color 0.5s, background-color 0.5s;
+}
+
+nav a:hover {
+    color: #ffffff;
+    background-color: #d8a267; 
 }
 
 #banner {
