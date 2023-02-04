@@ -37,12 +37,6 @@ nav ul {
     list-style: none;
     list-style-image: none;
 }
-
-nav a {
-    text-decoration: none;
-}
-
-
 /* Main Styles */
 
 nav {
@@ -65,6 +59,8 @@ nav a {
     line-height: 35px;
     flex: 33.33%;
     transition: color 0.5s, background-color 0.5s;
+    font-family: 'Kaisei Decol', serif; 
+    text-decoration: none;
 }
 
 nav a:hover {
