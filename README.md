@@ -1,6 +1,6 @@
 # SkillsUSA_Practice
 
 ## Palette Info
-WHITE: #000000
-GREEN: #FFFFFF
+WHITE: #F9FFFB
+GREEN: #8EE5A7
 BLUE:  #85BDFC
