@@ -74,3 +74,21 @@ nav a:hover {
     border-bottom-color: #55250F;  
     border-bottom-width: 5px;  
 }
+
+.welcomeTitle {
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    padding-top: 60px;
+    font-size: 50px;
+    color:#55250F;
+}
+
+#welcome.welcomeTitle {
+    font-family: 'Sassy Frass', cursive;
+    font-size: 100px;
+}
+
+hr {
+    margin-top: 50px;
+    width: 50%;
+}
