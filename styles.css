@@ -43,7 +43,7 @@ nav a {
 }
 
 nav {
-    background-color: #85BDFC; 
+    background-color: #ECB378; 
     height: 40px; 
     width: 100%; 
     display: flex; 
@@ -52,7 +52,7 @@ nav {
     justify-content: space-around; 
 
     border-bottom-style: solid; 
-    border-bottom-color: #c3daf3; 
+    border-bottom-color: #55250F; 
     border-bottom-width: 5px; 
 }
 
