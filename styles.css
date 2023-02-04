@@ -70,4 +70,7 @@ nav a:hover {
 
 #banner {
     max-width: 100%;
+    border-bottom-style: solid;  
+    border-bottom-color: #55250F;  
+    border-bottom-width: 5px;  
 }
