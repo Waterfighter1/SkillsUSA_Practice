@@ -41,3 +41,17 @@ nav ul {
 nav a {
     text-decoration: none;
 }
+
+nav {
+    background-color: #85BDFC; 
+    height: 40px; 
+    width: 100%; 
+    display: flex; 
+    align-items: center; 
+    position: fixed; 
+    justify-content: space-around; 
+
+    border-bottom-style: solid; 
+    border-bottom-color: #c3daf3; 
+    border-bottom-width: 5px; 
+}
