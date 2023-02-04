@@ -92,3 +92,23 @@ hr {
     margin-top: 50px;
     width: 50%;
 }
+
+
+/* Footer Styles */
+
+footer {
+    background-color: #ECB378; 
+    height: 80px; 
+    width: 100%; 
+
+    border-top-style: solid; 
+    border-top-color: #55250F; 
+    border-top-width: 5px; 
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
+    line-height: 37.5px;
+    font-family: 'Kaisei Decol', serif; 
+}
