@@ -116,3 +116,30 @@ footer p {
     line-height: 37.5px;
     font-family: 'Kaisei Decol', serif; 
 }
+
+#meatTypes {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    display: flex; 
+    align-items: center; 
+    justify-content: space-around; 
+}
+
+.meatType {
+    max-width: 33%;
+}
+
+#pageTitle {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    color:#55250F;
+}
+
+#pageBreak {
+    width:45%;
+    border-width: 2px;
+    border-color:#55250F;
+}
