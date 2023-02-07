@@ -88,6 +88,13 @@ nav a:hover {
     font-size: 100px;
 }
 
+#aboutusimg {
+    border: 5px solid #55250F;
+    border-radius: 10px;
+    width: 30%;
+    margin: 40px 35% 20px 35%;
+}
+
 .subheader {
     text-align: center;
     font-family: 'Aboreto', cursive;
