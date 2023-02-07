@@ -104,6 +104,10 @@ footer {
     border-top-style: solid; 
     border-top-color: #55250F; 
     border-top-width: 5px; 
+
+    border-bottom-style: solid; 
+    border-bottom-color: #55250F; 
+    border-bottom-width: 5px; 
 }
 
 footer p {
