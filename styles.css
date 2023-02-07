@@ -154,7 +154,7 @@ footer p {
 }
 
 .meatType {
-    max-width: 33%;
+    max-width: 100%;
 }
 
 #pageTitle {
@@ -168,4 +168,16 @@ footer p {
     width:45%;
     border-width: 2px;
     border-color:#55250F;
+}
+.meatContainer {
+    border-style:solid;
+    border-width: 2px;
+    border-color:rgba(0,0,0,0)
+}
+
+.meatContainer:hover {
+    border-color:#55250F;
+    -webkit-transition: border-color 2000ms linear;
+    -ms-transition: border-color 2000ms linear;
+    transition:border-color 2000ms linear;
 }
