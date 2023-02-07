@@ -88,6 +88,24 @@ nav a:hover {
     font-size: 100px;
 }
 
+.subheader {
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
+    color: #55250F;
+    padding: 20px 0;
+}
+
+.subtext {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    font-family: 'Aboreto', cursive;
+    font-size: 16px;
+    font-weight: bold;
+    color: #55250F;
+}
+
 hr {
     margin-top: 50px;
     width: 50%;
@@ -100,6 +118,7 @@ footer {
     background-color: #ECB378; 
     height: 80px; 
     width: 100%; 
+    margin-top: 5px;
 
     border-top-style: solid; 
     border-top-color: #55250F; 
